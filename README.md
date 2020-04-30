@@ -1,4 +1,4 @@
-# Salinaka | E-commerce react app
+# Delivery | E-commerce react app
 Simple ecommerce react js app with firebase.
 
 ### [Live demo](https://delivery-9ec72.web.app/)
